@@ -3,6 +3,9 @@
 <br>
 <t>My name is William Jonathan Mulyadi, I'm currently an undergraduate student at Bina Nusantara International University. This github repository contains the link that is used to create my Final Project prototype for Entrepreneurship Hatchery.<br>
 
+<br>
+To view the User Interface of the Figma I created, please click on the 'PROTOTYPE' button in the website.<br>
+
 <br><br>
 Link: https://willamjonathan2.github.io/EH1/
 
